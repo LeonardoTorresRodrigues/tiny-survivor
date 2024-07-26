@@ -10,7 +10,7 @@ _[English version](#English)_
 
 | :placard: Tiny Survivor |     |
 | -------------  | --- |
-| :label: Tecnologias | Godot
+| :label: Tecnologias | __Godot Engine:__ JavaScript, GDScript, HTML
 | :rocket: URL         | 🚧 [link]()
 | :fire: Desafio     | [Bootcamp Santander 2024 - Criando Jogos com Godot (DIO)](https://www.dio.me/en)
 ![Static Badge](https://img.shields.io/badge/Version-1.0-green)
