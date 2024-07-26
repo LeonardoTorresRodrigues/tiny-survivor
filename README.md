@@ -15,7 +15,7 @@ _[English version](#English)_
 | :fire: Desafio     | [Bootcamp Santander 2024 - Criando Jogos com Godot (DIO)](https://www.dio.me/en)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto)
 
 ## 💀 Detalhes do Jogo
 
@@ -37,7 +37,7 @@ Tiny Survivor foi inspirado em Vampire Survivors e desenvolvido com o poder do G
 * Ferramentas completas para criação de jogos.
 * Liberdade total para desenvolver e distribuir jogos sem custos de royalties.
 
-*Este projeto foi feito durante o bootcamp 'Santander 2024 - Criando Jogos com Godot' da [DIO](https://www.dio.me/en)*
+*Este projeto foi feito durante o bootcamp __Santander 2024 - Criando Jogos com Godot__ da [DIO](https://www.dio.me/en)*
 
 <a href='#top'>🔼 Voltar ao topo</a>
 
@@ -73,6 +73,6 @@ Tiny Survivor was inspired by Vampire Survivors and developed with the power of 
 * Complete set of game creation tools.
 * Total freedom to develop and distribute games royalty-free.
 
-*This project was made during the 'Santander 2024 - Criando Jogos com Godot' by [DIO](https://www.dio.me/en)*
+*This project was made during the __Santander 2024 - Criando Jogos com Godot__ by [DIO](https://www.dio.me/en)*
 
 <a href='#top'>🔼 Back to top</a>
