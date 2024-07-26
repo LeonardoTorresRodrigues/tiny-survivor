@@ -47,19 +47,21 @@ Tiny Survivor foi inspirado em Vampire Survivors e desenvolvido com o poder do G
 
 _English version_
 
+# 💀 Tiny Survivor
+
 </div>
 
 Survive as long as you can!
 
-## About the Game
+## 💀 About the Game
 
 The goal is to survive as long as possible. Just run and attack you enemies.
 
-## How to Play
+## 🎮 How to Play
 
 ...
 
-## Project Details
+## ⚙️ Project Details
 
 Tiny Survivor was inspired by Vampire Survivors and developed with the power of Godot Engine.
 
