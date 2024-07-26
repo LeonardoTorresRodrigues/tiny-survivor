@@ -58,7 +58,7 @@ Survive as long as you can!
 
 ## 💀 About the Game
 
-The goal is to survive as long as possible. Just run and attack you enemies.
+The goal is to survive as long as possible. Just run and attack your enemies.
 
 ## 🎮 How to Play
 
