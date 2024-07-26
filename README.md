@@ -59,7 +59,7 @@ The goal is to survive as long as possible. Just run and attack you enemies.
 
 ## 🎮 How to Play
 
-...
+🚧 [link]()
 
 ## ⚙️ Project Details
 
