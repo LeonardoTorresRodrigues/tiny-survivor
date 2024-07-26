@@ -76,6 +76,6 @@ Tiny Survivor was inspired by Vampire Survivors and developed with the power of 
 * Complete set of game creation tools.
 * Total freedom to develop and distribute games royalty-free.
 
-*This project was made during the __Santander 2024 - Criando Jogos com Godot__ by [DIO](https://www.dio.me/en)*
+*This project was made during the bootcamp __Santander 2024 - Criando Jogos com Godot__ by [DIO](https://www.dio.me/en)*
 
 <a href='#top'>🔼 Back to top</a>
