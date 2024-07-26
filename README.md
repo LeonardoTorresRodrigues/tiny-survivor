@@ -11,7 +11,7 @@ _[English version](#English)_
 | :placard: Tiny Survivor |     |
 | -------------  | --- |
 | :label: Tecnologias | __Godot Engine:__ JavaScript, GDScript, HTML
-| :rocket: URL         | 🚧 [link]()
+| :rocket: URL         | [Tiny Survivor](https://vacileo.itch.io/tiny-survive)
 | :fire: Desafio     | [Bootcamp Santander 2024 - Criando Jogos com Godot (DIO)](https://www.dio.me/en)
 ![Static Badge](https://img.shields.io/badge/Version-1.0-green)
 
@@ -28,7 +28,7 @@ O objetivo é sobreviver o máximo de tempo possível. Fuja e ataque os inimigos
 
 ## 🎮 Como jogar
 
-🚧 [link]()
+[Tiny Survivor](https://vacileo.itch.io/tiny-survive)
 
 ## ⚙️ Detalhes do Projeto
 
@@ -64,7 +64,7 @@ The goal is to survive as long as possible. Just run and attack your enemies.
 
 ## 🎮 How to Play
 
-🚧 [link]()
+[Tiny Survivor](https://vacileo.itch.io/tiny-survive)
 
 ## ⚙️ Project Details
 
